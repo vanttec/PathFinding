@@ -1,3 +1,12 @@
+Por si es de su interés:
+  - Sistema de planeación de trayectorias:
+      - Agregar algoritmos es relativamente sencillo, usando el namespace search_algorithm.
+      - Agregar funciones heuristicas igual, usando el namespace heuristic.
+      - Permite pasar configuraciones de mapas en archivos YAML. 
+      - Probado con mapas obtenidos con GMapping. 
+      - Inclui in test de funcionamiento. 
+      
+
 # Path finder
 
 This repository contains:
